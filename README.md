@@ -20,6 +20,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program
+```python
 import math
 import numpy as np
 x=[25,28,35,32,31,36,29,38,34,32]
@@ -38,7 +39,7 @@ for i in range(0,10):
     N=10
 r=(N*Sxy-Sx*Sy)/(math.sqrt(N*Sx2-Sx*2)*math.sqrt(N*Sy2-Sy*2))
 print("The Correlation coefficient is %0.3f"%r)
-
+```
 
 
 # Output : 
