@@ -1,4 +1,7 @@
-# Correlation and Regression for Data Analysis
+# EXP : 04
+# Date :
+
+# <p align="center"> Correlation and Regression for Data Analysis</p>
 # Aim : 
 
 To analyse given data using  coeffificient of correlation and regression line.
@@ -72,7 +75,6 @@ plt.ylabel("Y data")
 plt.legend(['Data points','Regression line'])
 plt.show()
 ```
-
 
 # Output : 
 ![ds](https://user-images.githubusercontent.com/75236145/170188466-c2d11e1d-cde7-49fe-84b1-d0c454e498f2.png)
